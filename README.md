@@ -1,0 +1,2 @@
+# HSZSlideCollectionView
+专辑效果-可左右滑动的collectionView
